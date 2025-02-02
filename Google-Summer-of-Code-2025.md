@@ -153,7 +153,7 @@ A: Yes, GSoC is probably not the best choice if you don't have enough time durin
 
 ## Dates and Deadlines
 
-Noteworthy dates for 2025 (see also the [Official GSoC Timeline](https://developers.google.com/open-source/gsoc/timeline):
+Noteworthy dates for 2025 (see also the [Official GSoC Timeline](https://developers.google.com/open-source/gsoc/timeline)):
 
 - **Jan 27 - Feb 11**: Mentoring organizations apply
 - **Feb 27**: Mentoring organizations are announced
